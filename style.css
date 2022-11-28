@@ -11,6 +11,11 @@
     width: 100%;
     background-color: blueviolet;
 }
+.main_block .right
+{
+    width: 100%;
+    background-color: red;
+}
 
 .main_block{
     display: flex;
