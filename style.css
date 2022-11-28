@@ -4,4 +4,10 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    
+}
+.main_block .left
+{
+    width: 100%;
+    background-color: blueviolet;
 }
