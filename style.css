@@ -6,23 +6,4 @@
     margin: 0;
     
 }
-.main_block .left
-{
-    width: 100%;
-    background-color: blueviolet;
-}
-.main_block .right
-{
-    width: 100%;
-    background-color: red;
-}
 
-.main_block{
-    display: flex;
-    flex-wrap: nowrap;
-    align-content: space-around;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: row;
-    align-items: center;
-}
